@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">BaseAdapter With LayoutInflater</string>
+
+    <string-array name="item_title">
+        <item>Bangladesh</item>
+        <item>Russia</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>Brazil</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>United-Kingdom</item>
+        <item>United-States</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Hong-Kong</item>
+        <item>Ireland</item>
+        <item>Japan</item>
+        <item>Myanmar</item>
+        <item>South-Korea</item>
+        <item>Switzerland</item>
+        <item>Uruguay</item>
+    </string-array>
+
+    <string-array name="item_details">
+        <item>
+            This is Bangladesh "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Russia "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is India "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Nepal "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Brazil "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Australia "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Canada "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is United-Kingdom "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is United-States "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is China "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Colombia "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is France "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Germany "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Hong-Kong "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Ireland "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Japan "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Myanmar "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is South-Korea "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Switzerland "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+        <item>
+            This is Uruguay "\n\n"
+            Every country in the world maintains a military or defense system to protect its sovereignty and ensure national security. Additionally, each nation has laws and protocols in place to safeguard its borders and uphold public safety against external threats.
+        </item>
+    </string-array>
+
+</resources>
